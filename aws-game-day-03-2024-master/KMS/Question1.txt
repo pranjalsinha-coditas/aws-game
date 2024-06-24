@@ -1,0 +1,2 @@
+- Create an IAM user named <your-name>-user1 and attach an IAM policy that permits the user to perform encryption operations using a KMS key.
+- Create a KMS key and attach a policy that grants the <your-name>-user1 user permission to perform decryption operations.

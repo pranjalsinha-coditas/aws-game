@@ -1,0 +1,4 @@
+- Create an IAM user named <your-name>-rednose and attach an IAM policy that permits the user to perform encryption operations using a KMS key.
+- Create a KMS key and attach a policy that grants the <your-name>-rednose user permission to perform decryption operations.
+
+Note: In this demo, you will use the username as the password to encrypt and decrypt the file.
